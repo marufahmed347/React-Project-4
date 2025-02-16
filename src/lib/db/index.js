@@ -20,3 +20,11 @@ export const nevItems = [
       href: "/",
     },
   ];
+
+
+  export const socialIcon = [
+    { img: "/fb.png", url: "https://www.facebook.com" },
+    { img: "/instagram.png", url: "https://www.instagram.com" },
+    { img: "/in.png", url: "https://bd.linkedin.com" },
+    { img: "/x.png", url: "https://x.com" },
+  ];
