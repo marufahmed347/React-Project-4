@@ -54,3 +54,38 @@ export const nevItems = [
       des1: "Ensure all your documents meet the latest regulatory standards.",
     },
   ];
+
+
+  export const reviews = [
+    {
+      name: "David",
+      image: "david.png",
+      type: "Happy Client",
+      review: {
+        stars: 5,
+        title: "Highly Recommend!",
+        details: "The service was user-friendly and met all my expectations.",
+      },
+    },
+    {
+      name: "John Smith",
+      image: "john-smith.png",
+      type: "Happy Client",
+      review: {
+        stars: 3,
+        title: "It Was An Amazing Experience!",
+        details:
+          "The AI features saved us countless hours and ensured our compliance was spot on.",
+      },
+    },
+    {
+      name: "Ronald Richards",
+      image: "ronald-richards.png",
+      type: "Happy Client",
+      review: {
+        stars: 4,
+        title: "Outstanding Support!",
+        details: "The customer support team was quick to resolve my issues.",
+      },
+    },
+  ];
