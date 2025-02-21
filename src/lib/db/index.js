@@ -89,3 +89,31 @@ export const nevItems = [
       },
     },
   ];
+
+
+  export const partners = [
+    {
+      src: "/partners-1.png",
+      alt: "Partner 1",
+    },
+    {
+      src: "/partners-2.png",
+      alt: "Partner 2",
+    },
+    {
+      src: "/partners-3.png",
+      alt: "Partner 3",
+    },
+    {
+      src: "/partners-4.png",
+      alt: "Partner 4",
+    },
+    {
+      src: "/partners-5.png",
+      alt: "Partner 5",
+    },
+    {
+      src: "/partners-6.png",
+      alt: "Partner 6",
+    },
+  ];

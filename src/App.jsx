@@ -1,5 +1,6 @@
 import './App.css'
 import { Hero } from './components/home/Hero';
+import { Partners } from './components/home/Partners';
 import { ProblemSolution } from './components/home/ProblemSolution';
 import { Reviews } from './components/home/Reviews';
 import { Footer } from './components/share/Footer';
@@ -14,6 +15,7 @@ function App() {
         <Hero/>
         <ProblemSolution/>
         <Reviews/>
+        <Partners/>
         <Footer/>
         
       </main>
